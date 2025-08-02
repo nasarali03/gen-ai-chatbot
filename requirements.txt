@@ -1,0 +1,8 @@
+google-genai
+dotenv
+fastapi
+uvicorn
+python-dotenv
+pydantic
+unicorn
+streamlit
